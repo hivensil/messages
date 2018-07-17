@@ -1,0 +1,19 @@
+{
+    "name": "vshevchuk/messages",
+    "description": "simple messages project",
+    "type": "project",
+    "license": "GPL",
+    "authors": [
+        {
+            "name": "vshevchuk",
+            "email": "vshevchuk@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Messages\\": ""
+        }
+    }
+}
