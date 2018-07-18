@@ -1,0 +1,150 @@
+{"type":1,"message":"Uncaught Error: Call to undefined function Messages\\some() in C:\\WORKS\\messages\\index.php:25\nStack trace:\n#0 {main}\n  thrown","file":"C:\\WORKS\\messages\\index.php","line":25}
+{"type":1,"message":"Uncaught Error: Call to undefined function Messages\\some() in C:\\WORKS\\messages\\index.php:25\nStack trace:\n#0 {main}\n  thrown","file":"C:\\WORKS\\messages\\index.php","line":25}
+Error! Use of undefined constant __DOC_ROOT__ - assumed '__DOC_ROOT__' (this will throw an Error in a future version of PHP)
+Error! require(__DOC_ROOT__config.php): failed to open stream: No such file or directory
+{"type":64,"message":"require(): Failed opening required '__DOC_ROOT__config.php' (include_path='.;C:\\php\\pear')","file":"C:\\WORKS\\messages\\models\\BaseModel.php","line":18}
+Error! Use of undefined constant __DOC_ROOT__ - assumed '__DOC_ROOT__' (this will throw an Error in a future version of PHP)
+Error! require(__DOC_ROOT__config.php): failed to open stream: No such file or directory
+{"type":64,"message":"require(): Failed opening required '__DOC_ROOT__config.php' (include_path='.;C:\\php\\pear')","file":"C:\\WORKS\\messages\\models\\BaseModel.php","line":18}
+Error! Use of undefined constant __DOC_ROOT__ - assumed '__DOC_ROOT__' (this will throw an Error in a future version of PHP)
+Error! require(__DOC_ROOT__/config.php): failed to open stream: No such file or directory
+{"type":64,"message":"require(): Failed opening required '__DOC_ROOT__\/config.php' (include_path='.;C:\\php\\pear')","file":"C:\\WORKS\\messages\\models\\BaseModel.php","line":18}
+Error! Use of undefined constant __DOC_ROOT__ - assumed '__DOC_ROOT__' (this will throw an Error in a future version of PHP)
+Error! require(__DOC_ROOT__/config.php): failed to open stream: No such file or directory
+{"type":64,"message":"require(): Failed opening required '__DOC_ROOT__\/config.php' (include_path='.;C:\\php\\pear')","file":"C:\\WORKS\\messages\\models\\BaseModel.php","line":18}
+Error! Use of undefined constant __DOC_ROOT__ - assumed '__DOC_ROOT__' (this will throw an Error in a future version of PHP)
+Error! require(__DOC_ROOT__/config.php): failed to open stream: No such file or directory
+{"type":64,"message":"require(): Failed opening required '__DOC_ROOT__\/config.php' (include_path='.;C:\\php\\pear')","file":"C:\\WORKS\\messages\\models\\BaseModel.php","line":18}
+Error! Use of undefined constant __DOC_ROOT__ - assumed '__DOC_ROOT__' (this will throw an Error in a future version of PHP)
+Error! require(__DOC_ROOT__/config.php): failed to open stream: No such file or directory
+{"type":64,"message":"require(): Failed opening required '__DOC_ROOT__\/config.php' (include_path='.;C:\\php\\pear')","file":"C:\\WORKS\\messages\\models\\BaseModel.php","line":18}
+Error! Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' (this will throw an Error in a future version of PHP)
+Error! require(DOC_ROOT/config.php): failed to open stream: No such file or directory
+{"type":64,"message":"require(): Failed opening required 'DOC_ROOT\/config.php' (include_path='.;C:\\php\\pear')","file":"C:\\WORKS\\messages\\models\\BaseModel.php","line":18}
+Error! Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' (this will throw an Error in a future version of PHP)
+Error! Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' (this will throw an Error in a future version of PHP)
+Error! require(DOC_ROOT/config.php): failed to open stream: No such file or directory
+{"type":64,"message":"require(): Failed opening required 'DOC_ROOT\/config.php' (include_path='.;C:\\php\\pear')","file":"C:\\WORKS\\messages\\models\\BaseModel.php","line":18}
+Error! Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' (this will throw an Error in a future version of PHP)
+Error! Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' (this will throw an Error in a future version of PHP)
+Error! require(DOC_ROOT/config.php): failed to open stream: No such file or directory
+{"type":64,"message":"require(): Failed opening required 'DOC_ROOT\/config.php' (include_path='.;C:\\php\\pear')","file":"C:\\WORKS\\messages\\models\\BaseModel.php","line":18}
+Error! Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' (this will throw an Error in a future version of PHP)
+Error! require(DOC_ROOT/config.php): failed to open stream: No such file or directory
+{"type":64,"message":"require(): Failed opening required 'DOC_ROOT\/config.php' (include_path='.;C:\\php\\pear')","file":"C:\\WORKS\\messages\\models\\BaseModel.php","line":17}
+Error! Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' (this will throw an Error in a future version of PHP)
+Error! require(DOC_ROOT/config.php): failed to open stream: No such file or directory
+{"type":64,"message":"require(): Failed opening required 'DOC_ROOT\/config.php' (include_path='.;C:\\php\\pear')","file":"C:\\WORKS\\messages\\models\\BaseModel.php","line":17}
+{"type":1,"message":"Uncaught Error: Class 'Messages\\Models\\mysqli' not found in C:\\WORKS\\messages\\models\\BaseModel.php:20\nStack trace:\n#0 C:\\WORKS\\messages\\models\\AuthModel.php(25): Messages\\Models\\BaseModel->__construct()\n#1 C:\\WORKS\\messages\\index.php(32): Messages\\Models\\AuthModel->login('anonymous')\n#2 {main}\n  thrown","file":"C:\\WORKS\\messages\\models\\BaseModel.php","line":20}
+{"type":1,"message":"Uncaught Error: Class 'Messages\\Models\\mysqli' not found in C:\\WORKS\\messages\\models\\BaseModel.php:20\nStack trace:\n#0 C:\\WORKS\\messages\\models\\AuthModel.php(25): Messages\\Models\\BaseModel->__construct()\n#1 C:\\WORKS\\messages\\index.php(32): Messages\\Models\\AuthModel->login('anonymous')\n#2 {main}\n  thrown","file":"C:\\WORKS\\messages\\models\\BaseModel.php","line":20}
+Error! Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' (this will throw an Error in a future version of PHP)
+{"type":1,"message":"Uncaught Error: Class 'Messages\\Models\\mysqli' not found in C:\\WORKS\\messages\\models\\BaseModel.php:20\nStack trace:\n#0 C:\\WORKS\\messages\\models\\AuthModel.php(25): Messages\\Models\\BaseModel->__construct()\n#1 C:\\WORKS\\messages\\index.php(32): Messages\\Models\\AuthModel->login('anonymous')\n#2 {main}\n  thrown","file":"C:\\WORKS\\messages\\models\\BaseModel.php","line":20}
+Error! Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' (this will throw an Error in a future version of PHP)
+{"type":1,"message":"Uncaught Error: Class 'Messages\\Models\\mysqli' not found in C:\\WORKS\\messages\\models\\BaseModel.php:20\nStack trace:\n#0 C:\\WORKS\\messages\\models\\AuthModel.php(25): Messages\\Models\\BaseModel->__construct()\n#1 C:\\WORKS\\messages\\index.php(32): Messages\\Models\\AuthModel->login('anonymous')\n#2 {main}\n  thrown","file":"C:\\WORKS\\messages\\models\\BaseModel.php","line":20}
+Error! Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' (this will throw an Error in a future version of PHP)
+Error! require(DOC_ROOT/config.php): failed to open stream: No such file or directory
+{"type":64,"message":"require(): Failed opening required 'DOC_ROOT\/config.php' (include_path='.;C:\\php\\pear')","file":"C:\\WORKS\\messages\\models\\BaseModel.php","line":18}
+Error! Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' (this will throw an Error in a future version of PHP)
+Error! require(DOC_ROOT/config.php): failed to open stream: No such file or directory
+{"type":64,"message":"require(): Failed opening required 'DOC_ROOT\/config.php' (include_path='.;C:\\php\\pear')","file":"C:\\WORKS\\messages\\models\\BaseModel.php","line":18}
+Error! Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' (this will throw an Error in a future version of PHP)
+Error! require(DOC_ROOT/config.php): failed to open stream: No such file or directory
+{"type":64,"message":"require(): Failed opening required 'DOC_ROOT\/config.php' (include_path='.;C:\\php\\pear')","file":"C:\\WORKS\\messages\\models\\BaseModel.php","line":18}
+Error! Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' (this will throw an Error in a future version of PHP)
+Error! require(DOC_ROOT/config.php): failed to open stream: No such file or directory
+{"type":64,"message":"require(): Failed opening required 'DOC_ROOT\/config.php' (include_path='.;C:\\php\\pear')","file":"C:\\WORKS\\messages\\models\\BaseModel.php","line":18}
+Error! Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' (this will throw an Error in a future version of PHP)
+Error! require(DOC_ROOT/config.php): failed to open stream: No such file or directory
+{"type":64,"message":"require(): Failed opening required 'DOC_ROOT\/config.php' (include_path='.;C:\\php\\pear')","file":"C:\\WORKS\\messages\\models\\BaseModel.php","line":18}
+Error! Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' (this will throw an Error in a future version of PHP)
+Error! require(DOC_ROOT/config.php): failed to open stream: No such file or directory
+{"type":64,"message":"require(): Failed opening required 'DOC_ROOT\/config.php' (include_path='.;C:\\php\\pear')","file":"C:\\WORKS\\messages\\models\\BaseModel.php","line":18}
+Error! Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' (this will throw an Error in a future version of PHP)
+Error! require(DOC_ROOT/config.php): failed to open stream: No such file or directory
+{"type":64,"message":"require(): Failed opening required 'DOC_ROOT\/config.php' (include_path='.;C:\\php\\pear')","file":"C:\\WORKS\\messages\\models\\BaseModel.php","line":18}
+Error! Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' (this will throw an Error in a future version of PHP)
+Error! require(DOC_ROOT/config.php): failed to open stream: No such file or directory
+{"type":64,"message":"require(): Failed opening required 'DOC_ROOT\/config.php' (include_path='.;C:\\php\\pear')","file":"C:\\WORKS\\messages\\models\\BaseModel.php","line":18}
+Error! require(../config.php): failed to open stream: No such file or directory
+{"type":64,"message":"require(): Failed opening required '..\/config.php' (include_path='.;C:\\php\\pear')","file":"C:\\WORKS\\messages\\models\\BaseModel.php","line":17}
+Error! require(..//config.php): failed to open stream: No such file or directory
+{"type":64,"message":"require(): Failed opening required '..\/\/config.php' (include_path='.;C:\\php\\pear')","file":"C:\\WORKS\\messages\\models\\BaseModel.php","line":17}
+Error! require(..//config.php): failed to open stream: No such file or directory
+{"type":64,"message":"require(): Failed opening required '..\/\/config.php' (include_path='.;C:\\php\\pear')","file":"C:\\WORKS\\messages\\models\\BaseModel.php","line":17}
+Error! Undefined variable: user
+Error! Trying to get property 'name' of non-object
+{"type":8,"message":"Trying to get property 'name' of non-object","file":"C:\\WORKS\\messages\\templates\\page.php","line":49}
+Error! Undefined variable: user
+{"type":8,"message":"Undefined variable: user","file":"C:\\WORKS\\messages\\templates\\page.php","line":49}
+Error! Undefined variable: user
+Error! Trying to get property 'name' of non-object
+{"type":8,"message":"Trying to get property 'name' of non-object","file":"C:\\WORKS\\messages\\templates\\page.php","line":49}
+Error! require(..\config.php): failed to open stream: No such file or directory
+{"type":64,"message":"require(): Failed opening required '..\\config.php' (include_path='.;C:\\php\\pear')","file":"C:\\WORKS\\messages\\models\\BaseModel.php","line":17}
+Error! require(../config.php): failed to open stream: No such file or directory
+{"type":64,"message":"require(): Failed opening required '..\/config.php' (include_path='.;C:\\php\\pear')","file":"C:\\WORKS\\messages\\models\\BaseModel.php","line":17}
+Error! require(../config.php): failed to open stream: No such file or directory
+{"type":64,"message":"require(): Failed opening required '..\/config.php' (include_path='.;C:\\php\\pear')","file":"C:\\WORKS\\messages\\models\\BaseModel.php","line":17}
+Error! require(..//config.php): failed to open stream: No such file or directory
+{"type":64,"message":"require(): Failed opening required '..\/\/config.php' (include_path='.;C:\\php\\pear')","file":"C:\\WORKS\\messages\\models\\BaseModel.php","line":17}
+Error! require(..//config.php): failed to open stream: No such file or directory
+{"type":64,"message":"require(): Failed opening required '..\/\/config.php' (include_path='.;C:\\php\\pear')","file":"C:\\WORKS\\messages\\models\\BaseModel.php","line":17}
+Error! require(C:\WORKS\messages\models../config.php): failed to open stream: No such file or directory
+{"type":64,"message":"require(): Failed opening required 'C:\\WORKS\\messages\\models..\/config.php' (include_path='.;C:\\php\\pear')","file":"C:\\WORKS\\messages\\models\\BaseModel.php","line":15}
+Error! require(C:\WORKS\messages\models../config.php): failed to open stream: No such file or directory
+{"type":64,"message":"require(): Failed opening required 'C:\\WORKS\\messages\\models..\/config.php' (include_path='.;C:\\php\\pear')","file":"C:\\WORKS\\messages\\models\\BaseModel.php","line":15}
+Error! require(C:\WORKS\messages\models../config.php): failed to open stream: No such file or directory
+{"type":64,"message":"require(): Failed opening required 'C:\\WORKS\\messages\\models..\/config.php' (include_path='.;C:\\php\\pear')","file":"C:\\WORKS\\messages\\models\\BaseModel.php","line":15}
+Error! require(C:\WORKS\messages\models../config.php): failed to open stream: No such file or directory
+{"type":64,"message":"require(): Failed opening required 'C:\\WORKS\\messages\\models..\/config.php' (include_path='.;C:\\php\\pear')","file":"C:\\WORKS\\messages\\models\\BaseModel.php","line":15}
+Error! require(C:\WORKS\messages\models../config.php): failed to open stream: No such file or directory
+{"type":64,"message":"require(): Failed opening required 'C:\\WORKS\\messages\\models..\/config.php' (include_path='.;C:\\php\\pear')","file":"C:\\WORKS\\messages\\models\\BaseModel.php","line":15}
+Error! require(C:\WORKS\messages\models../config.php): failed to open stream: No such file or directory
+{"type":64,"message":"require(): Failed opening required 'C:\\WORKS\\messages\\models..\/config.php' (include_path='.;C:\\php\\pear')","file":"C:\\WORKS\\messages\\models\\BaseModel.php","line":15}
+Error! require(C:\WORKS\messages\models../config.php): failed to open stream: No such file or directory
+{"type":64,"message":"require(): Failed opening required 'C:\\WORKS\\messages\\models..\/config.php' (include_path='.;C:\\php\\pear')","file":"C:\\WORKS\\messages\\models\\BaseModel.php","line":15}
+{"type":4,"message":"syntax error, unexpected '<', expecting end of file","file":"C:\\WORKS\\messages\\templates\\login.php","line":8}
+{"type":4,"message":"syntax error, unexpected '<', expecting end of file","file":"C:\\WORKS\\messages\\templates\\login.php","line":8}
+Error! session_set_cookie_params(): Cannot change session cookie parameters when session is active
+Error! session_start(): A session had already been started - ignoring
+{"type":8,"message":"session_start(): A session had already been started - ignoring","file":"C:\\WORKS\\messages\\models\\AuthModel.php","line":15}
+{"type":1,"message":"Uncaught Error: Call to undefined function Messages\\Controllers\\http_redirect() in C:\\WORKS\\messages\\controllers\\AuthController.php:18\nStack trace:\n#0 [internal function]: Messages\\Controllers\\AuthController->login(Array)\n#1 C:\\WORKS\\messages\\Router.php(35): call_user_func(Array, Array)\n#2 C:\\WORKS\\messages\\Router.php(48): Messages\\Router->executeAction(Array, Array)\n#3 C:\\WORKS\\messages\\index.php(26): Messages\\Router->dispatch()\n#4 {main}\n  thrown","file":"C:\\WORKS\\messages\\controllers\\AuthController.php","line":18}
+Error! session_unset() expects exactly 0 parameters, 1 given
+{"type":2,"message":"session_unset() expects exactly 0 parameters, 1 given","file":"C:\\WORKS\\messages\\models\\AuthModel.php","line":28}
+Error! Undefined variable: model
+{"type":1,"message":"Uncaught Error: Call to a member function login() on null in C:\\WORKS\\messages\\index.php:42\nStack trace:\n#0 {main}\n  thrown","file":"C:\\WORKS\\messages\\index.php","line":42}
+{"type":1,"message":"Uncaught Error: Class 'Messages\\Controllers\\AuthModel' not found in C:\\WORKS\\messages\\controllers\\AuthController.php:34\nStack trace:\n#0 [internal function]: Messages\\Controllers\\AuthController->logout(Array)\n#1 C:\\WORKS\\messages\\Router.php(35): call_user_func(Array, Array)\n#2 C:\\WORKS\\messages\\Router.php(48): Messages\\Router->executeAction(Array, Array)\n#3 C:\\WORKS\\messages\\index.php(27): Messages\\Router->dispatch()\n#4 {main}\n  thrown","file":"C:\\WORKS\\messages\\controllers\\AuthController.php","line":34}
+Error! Undefined variable: _SESSION
+Error! session_destroy(): Trying to destroy uninitialized session
+{"type":2,"message":"session_destroy(): Trying to destroy uninitialized session","file":"C:\\WORKS\\messages\\models\\AuthModel.php","line":37}
+Error! Undefined variable: _SESSION
+Error! session_destroy(): Trying to destroy uninitialized session
+{"type":2,"message":"session_destroy(): Trying to destroy uninitialized session","file":"C:\\WORKS\\messages\\models\\AuthModel.php","line":37}
+Error! Undefined variable: user
+Error! Trying to get property 'name' of non-object
+Error! Undefined variable: user
+Error! Trying to get property 'login' of non-object
+{"type":8,"message":"Trying to get property 'login' of non-object","file":"C:\\WORKS\\messages\\templates\\page.php","line":58}
+Error! Undefined variable: _SESSION
+{"type":8,"message":"Undefined variable: _SESSION","file":"C:\\WORKS\\messages\\models\\AuthModel.php","line":36}
+Error! Trying to get property 'name' of non-object
+Error! Trying to get property 'login' of non-object
+{"type":8,"message":"Trying to get property 'login' of non-object","file":"C:\\WORKS\\messages\\templates\\page.php","line":58}
+Error! Trying to get property 'name' of non-object
+Error! Trying to get property 'login' of non-object
+{"type":8,"message":"Trying to get property 'login' of non-object","file":"C:\\WORKS\\messages\\templates\\page.php","line":58}
+Error! Undefined variable: _SESSION
+{"type":8,"message":"Undefined variable: _SESSION","file":"C:\\WORKS\\messages\\models\\AuthModel.php","line":28}
+Error! ini_set() expects exactly 2 parameters, 1 given
+{"type":2,"message":"ini_set() expects exactly 2 parameters, 1 given","file":"C:\\WORKS\\messages\\index.php","line":33}
+Error! ini_set() expects exactly 2 parameters, 1 given
+{"type":2,"message":"ini_set() expects exactly 2 parameters, 1 given","file":"C:\\WORKS\\messages\\index.php","line":33}
+{"type":1,"message":"Class 'mysqli' not found","file":"C:\\WORKS\\messages\\models\\BaseModel.php","line":17}
+{"type":1,"message":"Class 'mysqli' not found","file":"C:\\WORKS\\messages\\models\\BaseModel.php","line":17}
+Error! Undefined variable: user
+Error! Trying to get property 'name' of non-object
+Error! Undefined variable: user
+Error! Trying to get property 'login' of non-object
+{"type":8,"message":"Trying to get property 'login' of non-object","file":"C:\\WORKS\\messages\\templates\\page.php","line":58}
+Error! session_destroy(): Trying to destroy uninitialized session
+{"type":2,"message":"session_destroy(): Trying to destroy uninitialized session","file":"C:\\WORKS\\messages\\models\\AuthModel.php","line":36}

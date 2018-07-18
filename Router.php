@@ -15,7 +15,11 @@ class Router
     protected  $routes=[];
 
     protected function getCurrentUri() {
-        return ( $_SERVER['REQUEST_URI'] );
+        $uri = $_SERVER['REQUEST_URI'];
+        if(strpos($uri,'?') >0){
+            $uri = substr($uri,0,strpos($uri,'?'));
+        }
+        return trim($uri,'/');
     }
 
     public function route( $route, $controller, $action ){
@@ -30,18 +34,21 @@ class Router
             $instance=new $class_name();
             return call_user_func( [$instance, $action], $args );
         }
-
     }
 
 
     public function dispatch(){
+
         $current_uri = $this->getCurrentUri();
         foreach ($this->routes as $route=>$destination){
-            if ( $current_uri == $route ||   preg_match( '#'.$route.'#',$current_uri ) ){
+            $route=trim($route,'/');
+            //$b=$current_uri == $route;
+           //print_r(json_encode($current_uri).';'.json_encode($route).';'.json_encode($destination).':'.$b."<br>");
+            if ( $current_uri == $route ){
                 return $this->executeAction( $destination, $_REQUEST );
-            }else
-                return "no content";
+            }
         }
+        return "no content";
 
     }
 }

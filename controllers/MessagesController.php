@@ -7,8 +7,11 @@
  */
 namespace Messages\Controllers;
 
-class MessagesController{
+class MessagesController extends BaseController{
     public function view( $args ){
-        var_dump( 'aaaa! im MessageController', $args );
+        return 'aaaa! im MessageController'.json_encode($args);
+    }
+    public function view2( $args ){
+        return 'view2 content';
     }
 }

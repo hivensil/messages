@@ -1,0 +1,10 @@
+.login_panel{
+    background-color: black;
+    width:100%;
+    text-align: right;
+    padding-right:10px;
+}
+
+.login_panel .user_name{
+    color:yellow;
+}
