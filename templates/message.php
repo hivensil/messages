@@ -8,7 +8,9 @@
 ?>
 
 <h2><?PHP echo $message->title; ?></h2>
-<?PHP echo $message->full_content ?>
+<div>
+    <?PHP echo $message->full_content ?>
+</div>
 
 <div class="comments-container">
 

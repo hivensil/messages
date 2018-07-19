@@ -14,7 +14,8 @@
         <a class="message-link" href="/messages/fullview?id=<?PHP echo $row->id; ?>">
             <div class="card">
                 <div class="card-header">
-                    <?PHP print($row->title);?>
+                    <span class="float-left"></SPAN><?PHP print($row->title);?></span>
+                    <span class="float-right"><a href="/messages/edit?id=<?PHP echo $row->id;?>"><span class="oi oi-pencil float-right" style="color:green;"></span></a></span>
                 </div>
                 <div class="card-body">
                     <?PHP print($row->summary_content);?>

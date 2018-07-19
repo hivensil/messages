@@ -44,5 +44,4 @@ if ($model->is_auth()){
     $user=$model->getAnonymousUser();
 }
 
-
 require('templates/page.php');

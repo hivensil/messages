@@ -20,6 +20,8 @@ class MessagesModel extends BaseModel{
 
         $data=array();
         while ($row=$result->fetch_object()){
+            $row->summary_content=htmlspecialchars_decode($row->summary_content);
+            $row->full_content=htmlspecialchars_decode($row->full_content);
             $data[]=$row;
         }
 
@@ -40,7 +42,10 @@ class MessagesModel extends BaseModel{
     public function getById($id){
         $sql="select * from messages where id={$id}";
         $result = $this->db->query($sql);
-        return $result->fetch_object();
+        $row=$result->fetch_object();
+        $row->summary_content=htmlspecialchars_decode($row->summary_content);
+        $row->full_content=htmlspecialchars_decode($row->full_content);
+        return $row;
     }
 
     public function listComments($id){

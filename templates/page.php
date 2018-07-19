@@ -1,4 +1,3 @@
-
 <!doctype html>
 <html lang="en">
 <head>
@@ -18,6 +17,9 @@
 
     <!-- Custom styles for this template -->
     <link href="/style.css" rel="stylesheet">
+
+    <!--cl editor-->
+    <link rel="stylesheet" href="/vendor/cleditor1_4_5/jquery.cleditor.css">
 </head>
 
 <body>
@@ -85,5 +87,6 @@
 
 <script src="/vendor/jquery.min.js" ></script>
 <script src="/vendor/bootstrap/bootstrap.min.js"></script>
+<script src="/vendor/cleditor1_4_5/jquery.cleditor.min.js"></script>
 </body>
 </html>

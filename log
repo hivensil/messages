@@ -262,3 +262,13 @@ Error! Trying to get property 'id' of non-object
 Error! Trying to get property 'id' of non-object
 {"type":8,"message":"Trying to get property 'id' of non-object","file":"C:\\WORKS\\messages\\controllers\\MessagesController.php","line":55}
 {"type":4,"message":"syntax error, unexpected '}', expecting '('","file":"C:\\WORKS\\messages\\controllers\\MessagesController.php","line":66}
+Error! A non well formed numeric value encountered
+{"type":8,"message":"A non well formed numeric value encountered","file":"C:\\WORKS\\messages\\templates\\message.php","line":28}
+Error! A non well formed numeric value encountered
+{"type":8,"message":"A non well formed numeric value encountered","file":"C:\\WORKS\\messages\\templates\\message.php","line":28}
+Error! A non well formed numeric value encountered
+{"type":8,"message":"A non well formed numeric value encountered","file":"C:\\WORKS\\messages\\templates\\message.php","line":28}
+Error! Trying to get property 'title' of non-object
+Error! Trying to get property 'full_content' of non-object
+Error! Trying to get property 'id' of non-object
+{"type":8,"message":"Trying to get property 'id' of non-object","file":"C:\\WORKS\\messages\\templates\\message.php","line":20}
