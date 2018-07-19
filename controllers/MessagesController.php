@@ -85,4 +85,37 @@ class MessagesController extends BaseController{
         }
     }
 
+    public function editMessage($args){
+
+        if ($_POST){
+            $model = new AuthModel();
+            if ($model->is_auth()){
+                $current_user = $model->getSessionUser();
+            }else
+                $current_user=$model->getAnonymousUser();
+
+            if (isset($args['id']) && isset($args['title']) && isset($args['summary_content']) && isset($args['full_content']) ){
+                $message=new \stdClass();
+                $message->id=$args['id'];
+                $message->title = $args['title'];
+                $message->summary_content = $args['summary_content'];
+                $message->full_content = $args['full_content'];
+                $model = new MessagesModel();
+                $model->editMessage($message);
+                header('location:/messages/view');
+            }
+        }else{
+            if (isset($args['id'])){
+                $model = new MessagesModel();
+                $message=$model->getById($args['id']);
+                ob_start();
+                require(\Messages\DOC_ROOT.'/templates/editMessageForm.php');
+                $content = ob_get_contents();
+                ob_end_clean();
+                return $content;
+            }
+
+        }
+    }
+
 }

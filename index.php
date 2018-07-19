@@ -22,6 +22,7 @@ $router = new Router();
 $router->route("/messages/view",'MessagesController','view');
 $router->route("/messages/fullview",'MessagesController','fullview');
 $router->route("/messages/create",'MessagesController','createMessage');
+$router->route("/messages/edit",'MessagesController','editMessage');
 $router->route("/",'MessagesController','view');
 $router->route("/auth/login",'AuthController','login');
 $router->route("/auth/logout",'AuthController','logout');

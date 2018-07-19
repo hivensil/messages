@@ -65,6 +65,13 @@ class MessagesModel extends BaseModel{
         return $this->db->query($sql);
     }
 
+    public function editMessage($message){
+        $message=$this->sanitizeObject($message);
+        $sql="update messages set
+        title='{$message->title}',summary_content='{$message->summary_content}',full_content='{$message->full_content}' where id={$message->id}";
+        return $this->db->query($sql);
+    }
+
     public function addComment($comment,$message_id, $user_id){
         $sql="insert into comments (user_id,message_id,content) values({$user_id},{$message_id},'{$comment}')";
         return $this->db->query($sql);

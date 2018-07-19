@@ -272,3 +272,4 @@ Error! Trying to get property 'title' of non-object
 Error! Trying to get property 'full_content' of non-object
 Error! Trying to get property 'id' of non-object
 {"type":8,"message":"Trying to get property 'id' of non-object","file":"C:\\WORKS\\messages\\templates\\message.php","line":20}
+{"type":1,"message":"Uncaught Error: Call to undefined method Messages\\Models\\MessagesModel::editMessage() in C:\\WORKS\\messages\\controllers\\MessagesController.php:103\nStack trace:\n#0 [internal function]: Messages\\Controllers\\MessagesController->editMessage(Array)\n#1 C:\\WORKS\\messages\\Router.php(35): call_user_func(Array, Array)\n#2 C:\\WORKS\\messages\\Router.php(48): Messages\\Router->executeAction(Array, Array)\n#3 C:\\WORKS\\messages\\index.php(32): Messages\\Router->dispatch()\n#4 {main}\n  thrown","file":"C:\\WORKS\\messages\\controllers\\MessagesController.php","line":103}
