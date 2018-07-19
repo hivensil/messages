@@ -10,7 +10,10 @@
         }
     ],
     "minimum-stability": "dev",
-    "require": {},
+    "require": {
+        "fzaninotto/faker": "^1.9@dev",
+        "gabordemooij/redbean": "dev-master"
+    },
     "autoload": {
         "psr-4": {
             "Messages\\": ""

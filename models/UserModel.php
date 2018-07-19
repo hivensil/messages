@@ -11,28 +11,13 @@ namespace Messages\Models;
 class UserModel extends BaseModel{
 
     public function getUserByID( $user_id ){
-
-        if ( !$result = $this->db->query("select * from users where id=$user_id") ){
-            throw new \Exception('ощибка при работе с бд',500);
-        }
-
-        if ($result->num_rows === 1){
-            return $result->fetch_object();
-        }
-
-        return null;
+        $result = $this->db->query("select * from users where id=$user_id");
+        return $result->fetch_object();
     }
 
     public function getUserByLoginOrEmail($str){
         $sql="select * from users where login='{$str}' or email='{$str}'";
-        if ( !$result = $this->db->query($sql) ){
-            throw new \Exception('ощибка при работе с бд',500);
-        }
-
-        if ($result->num_rows === 1){
-            return $result->fetch_object();
-        }
-
-        return null;
+        $result = $this->db->query($sql);
+        return $result->fetch_object();
     }
 }

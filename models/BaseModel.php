@@ -22,4 +22,17 @@ class BaseModel{
             throw new \Exception('Ошибка при работе с БД',500);
         }
     }
+
+    public function sanitizeString(string $data){
+        return $this->db->real_escape_string( htmlspecialchars($data) );
+    }
+
+    public function sanitizeObject(object $data){
+        $new_data=new \stdClass();
+        $fields=(array)$data;
+        foreach($fields as $key=>$value){
+            $new_data->$key=$this->sanitizeString($fields[$key]);
+        }
+        return $new_data;
+    }
 }

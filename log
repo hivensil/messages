@@ -148,3 +148,117 @@ Error! Trying to get property 'login' of non-object
 {"type":8,"message":"Trying to get property 'login' of non-object","file":"C:\\WORKS\\messages\\templates\\page.php","line":58}
 Error! session_destroy(): Trying to destroy uninitialized session
 {"type":2,"message":"session_destroy(): Trying to destroy uninitialized session","file":"C:\\WORKS\\messages\\models\\AuthModel.php","line":36}
+Error! Use of undefined constant page - assumed 'page' (this will throw an Error in a future version of PHP)
+Error! A non-numeric value encountered
+{"type":1,"message":"Uncaught Exception: \u043e\u0449\u0438\u0431\u043a\u0430 \u043f\u0440\u0438 \u0440\u0430\u0431\u043e\u0442\u0435 \u0441 \u0431\u0434 in C:\\WORKS\\messages\\models\\MessagesModel.php:18\nStack trace:\n#0 C:\\WORKS\\messages\\controllers\\MessagesController.php(15): Messages\\Models\\MessagesModel->ListMessages(1, 10)\n#1 [internal function]: Messages\\Controllers\\MessagesController->view(Array)\n#2 C:\\WORKS\\messages\\Router.php(35): call_user_func(Array, Array)\n#3 C:\\WORKS\\messages\\Router.php(48): Messages\\Router->executeAction(Array, Array)\n#4 C:\\WORKS\\messages\\index.php(27): Messages\\Router->dispatch()\n#5 {main}\n  thrown","file":"C:\\WORKS\\messages\\models\\MessagesModel.php","line":18}
+Error! Use of undefined constant page - assumed 'page' (this will throw an Error in a future version of PHP)
+Error! A non-numeric value encountered
+{"type":1,"message":"Uncaught Exception: \u043e\u0449\u0438\u0431\u043a\u0430 \u043f\u0440\u0438 \u0440\u0430\u0431\u043e\u0442\u0435 \u0441 \u0431\u0434 in C:\\WORKS\\messages\\models\\MessagesModel.php:18\nStack trace:\n#0 C:\\WORKS\\messages\\controllers\\MessagesController.php(15): Messages\\Models\\MessagesModel->ListMessages(1, 10)\n#1 [internal function]: Messages\\Controllers\\MessagesController->view(Array)\n#2 C:\\WORKS\\messages\\Router.php(35): call_user_func(Array, Array)\n#3 C:\\WORKS\\messages\\Router.php(48): Messages\\Router->executeAction(Array, Array)\n#4 C:\\WORKS\\messages\\index.php(27): Messages\\Router->dispatch()\n#5 {main}\n  thrown","file":"C:\\WORKS\\messages\\models\\MessagesModel.php","line":18}
+Error! Use of undefined constant page - assumed 'page' (this will throw an Error in a future version of PHP)
+Error! A non-numeric value encountered
+{"type":1,"message":"Uncaught Exception: \u043e\u0449\u0438\u0431\u043a\u0430 \u043f\u0440\u0438 \u0440\u0430\u0431\u043e\u0442\u0435 \u0441 \u0431\u0434 in C:\\WORKS\\messages\\models\\MessagesModel.php:20\nStack trace:\n#0 C:\\WORKS\\messages\\controllers\\MessagesController.php(15): Messages\\Models\\MessagesModel->ListMessages(1, 10)\n#1 [internal function]: Messages\\Controllers\\MessagesController->view(Array)\n#2 C:\\WORKS\\messages\\Router.php(35): call_user_func(Array, Array)\n#3 C:\\WORKS\\messages\\Router.php(48): Messages\\Router->executeAction(Array, Array)\n#4 C:\\WORKS\\messages\\index.php(27): Messages\\Router->dispatch()\n#5 {main}\n  thrown","file":"C:\\WORKS\\messages\\models\\MessagesModel.php","line":20}
+Error! Use of undefined constant page - assumed 'page' (this will throw an Error in a future version of PHP)
+Error! A non-numeric value encountered
+{"type":1,"message":"Uncaught Exception: \u043e\u0449\u0438\u0431\u043a\u0430 \u043f\u0440\u0438 \u0440\u0430\u0431\u043e\u0442\u0435 \u0441 \u0431\u0434 in C:\\WORKS\\messages\\models\\MessagesModel.php:20\nStack trace:\n#0 C:\\WORKS\\messages\\controllers\\MessagesController.php(15): Messages\\Models\\MessagesModel->ListMessages(1, 10)\n#1 [internal function]: Messages\\Controllers\\MessagesController->view(Array)\n#2 C:\\WORKS\\messages\\Router.php(35): call_user_func(Array, Array)\n#3 C:\\WORKS\\messages\\Router.php(48): Messages\\Router->executeAction(Array, Array)\n#4 C:\\WORKS\\messages\\index.php(27): Messages\\Router->dispatch()\n#5 {main}\n  thrown","file":"C:\\WORKS\\messages\\models\\MessagesModel.php","line":20}
+Error! Use of undefined constant page - assumed 'page' (this will throw an Error in a future version of PHP)
+Error! A non-numeric value encountered
+Error! file_put_contents(c:\1.txt): failed to open stream: Permission denied
+{"type":1,"message":"Uncaught Exception: \u043e\u0449\u0438\u0431\u043a\u0430 \u043f\u0440\u0438 \u0440\u0430\u0431\u043e\u0442\u0435 \u0441 \u0431\u0434 in C:\\WORKS\\messages\\models\\MessagesModel.php:20\nStack trace:\n#0 C:\\WORKS\\messages\\controllers\\MessagesController.php(15): Messages\\Models\\MessagesModel->ListMessages(1, 10)\n#1 [internal function]: Messages\\Controllers\\MessagesController->view(Array)\n#2 C:\\WORKS\\messages\\Router.php(35): call_user_func(Array, Array)\n#3 C:\\WORKS\\messages\\Router.php(48): Messages\\Router->executeAction(Array, Array)\n#4 C:\\WORKS\\messages\\index.php(27): Messages\\Router->dispatch()\n#5 {main}\n  thrown","file":"C:\\WORKS\\messages\\models\\MessagesModel.php","line":20}
+Error! Use of undefined constant page - assumed 'page' (this will throw an Error in a future version of PHP)
+Error! A non-numeric value encountered
+{"type":1,"message":"Uncaught Exception: \u043e\u0449\u0438\u0431\u043a\u0430 \u043f\u0440\u0438 \u0440\u0430\u0431\u043e\u0442\u0435 \u0441 \u0431\u0434 in C:\\WORKS\\messages\\models\\MessagesModel.php:20\nStack trace:\n#0 C:\\WORKS\\messages\\controllers\\MessagesController.php(15): Messages\\Models\\MessagesModel->ListMessages(1, 10)\n#1 [internal function]: Messages\\Controllers\\MessagesController->view(Array)\n#2 C:\\WORKS\\messages\\Router.php(35): call_user_func(Array, Array)\n#3 C:\\WORKS\\messages\\Router.php(48): Messages\\Router->executeAction(Array, Array)\n#4 C:\\WORKS\\messages\\index.php(27): Messages\\Router->dispatch()\n#5 {main}\n  thrown","file":"C:\\WORKS\\messages\\models\\MessagesModel.php","line":20}
+{"type":1,"message":"Uncaught Exception: \u043e\u0449\u0438\u0431\u043a\u0430 \u043f\u0440\u0438 \u0440\u0430\u0431\u043e\u0442\u0435 \u0441 \u0431\u0434 in C:\\WORKS\\messages\\models\\MessagesModel.php:20\nStack trace:\n#0 C:\\WORKS\\messages\\controllers\\MessagesController.php(15): Messages\\Models\\MessagesModel->ListMessages(1, 10)\n#1 [internal function]: Messages\\Controllers\\MessagesController->view(Array)\n#2 C:\\WORKS\\messages\\Router.php(35): call_user_func(Array, Array)\n#3 C:\\WORKS\\messages\\Router.php(48): Messages\\Router->executeAction(Array, Array)\n#4 C:\\WORKS\\messages\\index.php(27): Messages\\Router->dispatch()\n#5 {main}\n  thrown","file":"C:\\WORKS\\messages\\models\\MessagesModel.php","line":20}
+{"type":1,"message":"Uncaught Exception: \u043e\u0449\u0438\u0431\u043a\u0430 \u043f\u0440\u0438 \u0440\u0430\u0431\u043e\u0442\u0435 \u0441 \u0431\u0434 in C:\\WORKS\\messages\\models\\MessagesModel.php:20\nStack trace:\n#0 C:\\WORKS\\messages\\controllers\\MessagesController.php(15): Messages\\Models\\MessagesModel->ListMessages(1, 10)\n#1 [internal function]: Messages\\Controllers\\MessagesController->view(Array)\n#2 C:\\WORKS\\messages\\Router.php(35): call_user_func(Array, Array)\n#3 C:\\WORKS\\messages\\Router.php(48): Messages\\Router->executeAction(Array, Array)\n#4 C:\\WORKS\\messages\\index.php(27): Messages\\Router->dispatch()\n#5 {main}\n  thrown","file":"C:\\WORKS\\messages\\models\\MessagesModel.php","line":20}
+{"type":1,"message":"Uncaught Exception: \u043e\u0449\u0438\u0431\u043a\u0430 \u043f\u0440\u0438 \u0440\u0430\u0431\u043e\u0442\u0435 \u0441 \u0431\u0434 in C:\\WORKS\\messages\\models\\MessagesModel.php:20\nStack trace:\n#0 C:\\WORKS\\messages\\controllers\\MessagesController.php(15): Messages\\Models\\MessagesModel->ListMessages(1, 10)\n#1 [internal function]: Messages\\Controllers\\MessagesController->view(Array)\n#2 C:\\WORKS\\messages\\Router.php(35): call_user_func(Array, Array)\n#3 C:\\WORKS\\messages\\Router.php(48): Messages\\Router->executeAction(Array, Array)\n#4 C:\\WORKS\\messages\\index.php(27): Messages\\Router->dispatch()\n#5 {main}\n  thrown","file":"C:\\WORKS\\messages\\models\\MessagesModel.php","line":20}
+{"type":1,"message":"Uncaught Exception: \u043e\u0449\u0438\u0431\u043a\u0430 \u043f\u0440\u0438 \u0440\u0430\u0431\u043e\u0442\u0435 \u0441 \u0431\u0434 in C:\\WORKS\\messages\\models\\MessagesModel.php:20\nStack trace:\n#0 C:\\WORKS\\messages\\controllers\\MessagesController.php(15): Messages\\Models\\MessagesModel->ListMessages(1, 10)\n#1 [internal function]: Messages\\Controllers\\MessagesController->view(Array)\n#2 C:\\WORKS\\messages\\Router.php(35): call_user_func(Array, Array)\n#3 C:\\WORKS\\messages\\Router.php(48): Messages\\Router->executeAction(Array, Array)\n#4 C:\\WORKS\\messages\\index.php(27): Messages\\Router->dispatch()\n#5 {main}\n  thrown","file":"C:\\WORKS\\messages\\models\\MessagesModel.php","line":20}
+Error! mysqli::__construct(): (HY000/2002): ��������� �� �����������, �.�. ������ ������� ������ ������ �� ���������.
+
+Error! mysqli::set_charset(): Couldn't fetch mysqli
+{"type":1,"message":"Uncaught Exception: \u041e\u0448\u0438\u0431\u043a\u0430 \u043f\u0440\u0438 \u0440\u0430\u0431\u043e\u0442\u0435 \u0441 \u0411\u0414 in C:\\WORKS\\messages\\models\\BaseModel.php:22\nStack trace:\n#0 C:\\WORKS\\messages\\controllers\\MessagesController.php(14): Messages\\Models\\BaseModel->__construct()\n#1 [internal function]: Messages\\Controllers\\MessagesController->view(Array)\n#2 C:\\WORKS\\messages\\Router.php(35): call_user_func(Array, Array)\n#3 C:\\WORKS\\messages\\Router.php(48): Messages\\Router->executeAction(Array, Array)\n#4 C:\\WORKS\\messages\\index.php(27): Messages\\Router->dispatch()\n#5 {main}\n  thrown","file":"C:\\WORKS\\messages\\models\\BaseModel.php","line":22}
+Error! mysqli::__construct(): (HY000/2002): ��������� �� �����������, �.�. ������ ������� ������ ������ �� ���������.
+
+Error! mysqli::set_charset(): Couldn't fetch mysqli
+{"type":1,"message":"Uncaught Exception: \u041e\u0448\u0438\u0431\u043a\u0430 \u043f\u0440\u0438 \u0440\u0430\u0431\u043e\u0442\u0435 \u0441 \u0411\u0414 in C:\\WORKS\\messages\\models\\BaseModel.php:22\nStack trace:\n#0 C:\\WORKS\\messages\\controllers\\MessagesController.php(14): Messages\\Models\\BaseModel->__construct()\n#1 [internal function]: Messages\\Controllers\\MessagesController->view(Array)\n#2 C:\\WORKS\\messages\\Router.php(35): call_user_func(Array, Array)\n#3 C:\\WORKS\\messages\\Router.php(48): Messages\\Router->executeAction(Array, Array)\n#4 C:\\WORKS\\messages\\index.php(27): Messages\\Router->dispatch()\n#5 {main}\n  thrown","file":"C:\\WORKS\\messages\\models\\BaseModel.php","line":22}
+{"type":1,"message":"Uncaught ArgumentCountError: Too few arguments to function Messages\\Router::route(), 0 passed in C:\\WORKS\\messages\\index.php on line 27 and exactly 3 expected in C:\\WORKS\\messages\\Router.php:25\nStack trace:\n#0 C:\\WORKS\\messages\\index.php(27): Messages\\Router->route()\n#1 {main}\n  thrown","file":"C:\\WORKS\\messages\\Router.php","line":25}
+{"type":1,"message":"Uncaught ArgumentCountError: Too few arguments to function Messages\\Router::route(), 0 passed in C:\\WORKS\\messages\\index.php on line 27 and exactly 3 expected in C:\\WORKS\\messages\\Router.php:25\nStack trace:\n#0 C:\\WORKS\\messages\\index.php(27): Messages\\Router->route()\n#1 {main}\n  thrown","file":"C:\\WORKS\\messages\\Router.php","line":25}
+{"type":1,"message":"Uncaught ArgumentCountError: Too few arguments to function Messages\\Router::route(), 0 passed in C:\\WORKS\\messages\\index.php on line 27 and exactly 3 expected in C:\\WORKS\\messages\\Router.php:25\nStack trace:\n#0 C:\\WORKS\\messages\\index.php(27): Messages\\Router->route()\n#1 {main}\n  thrown","file":"C:\\WORKS\\messages\\Router.php","line":25}
+{"type":1,"message":"Uncaught ArgumentCountError: Too few arguments to function Messages\\Router::route(), 0 passed in C:\\WORKS\\messages\\index.php on line 27 and exactly 3 expected in C:\\WORKS\\messages\\Router.php:25\nStack trace:\n#0 C:\\WORKS\\messages\\index.php(27): Messages\\Router->route()\n#1 {main}\n  thrown","file":"C:\\WORKS\\messages\\Router.php","line":25}
+{"type":1,"message":"Uncaught ArgumentCountError: Too few arguments to function Messages\\Router::route(), 0 passed in C:\\WORKS\\messages\\index.php on line 27 and exactly 3 expected in C:\\WORKS\\messages\\Router.php:25\nStack trace:\n#0 C:\\WORKS\\messages\\index.php(27): Messages\\Router->route()\n#1 {main}\n  thrown","file":"C:\\WORKS\\messages\\Router.php","line":25}
+{"type":1,"message":"Uncaught ArgumentCountError: Too few arguments to function Messages\\Router::route(), 0 passed in C:\\WORKS\\messages\\index.php on line 27 and exactly 3 expected in C:\\WORKS\\messages\\Router.php:25\nStack trace:\n#0 C:\\WORKS\\messages\\index.php(27): Messages\\Router->route()\n#1 {main}\n  thrown","file":"C:\\WORKS\\messages\\Router.php","line":25}
+Error! Undefined variable: id
+{"type":1,"message":"Uncaught Error: Call to a member function fetch_assoc() on boolean in C:\\WORKS\\messages\\models\\MessagesModel.php:32\nStack trace:\n#0 C:\\WORKS\\messages\\controllers\\MessagesController.php(27): Messages\\Models\\MessagesModel->getById(NULL)\n#1 [internal function]: Messages\\Controllers\\MessagesController->fullview(Array)\n#2 C:\\WORKS\\messages\\Router.php(35): call_user_func(Array, Array)\n#3 C:\\WORKS\\messages\\Router.php(48): Messages\\Router->executeAction(Array, Array)\n#4 C:\\WORKS\\messages\\index.php(28): Messages\\Router->dispatch()\n#5 {main}\n  thrown","file":"C:\\WORKS\\messages\\models\\MessagesModel.php","line":32}
+Error! Undefined variable: argss
+{"type":1,"message":"Uncaught Error: Call to a member function fetch_assoc() on boolean in C:\\WORKS\\messages\\models\\MessagesModel.php:32\nStack trace:\n#0 C:\\WORKS\\messages\\controllers\\MessagesController.php(27): Messages\\Models\\MessagesModel->getById(NULL)\n#1 [internal function]: Messages\\Controllers\\MessagesController->fullview(Array)\n#2 C:\\WORKS\\messages\\Router.php(35): call_user_func(Array, Array)\n#3 C:\\WORKS\\messages\\Router.php(48): Messages\\Router->executeAction(Array, Array)\n#4 C:\\WORKS\\messages\\index.php(28): Messages\\Router->dispatch()\n#5 {main}\n  thrown","file":"C:\\WORKS\\messages\\models\\MessagesModel.php","line":32}
+Error! Undefined variable: argss
+{"type":1,"message":"Uncaught Error: Call to a member function fetch_assoc() on boolean in C:\\WORKS\\messages\\models\\MessagesModel.php:32\nStack trace:\n#0 C:\\WORKS\\messages\\controllers\\MessagesController.php(27): Messages\\Models\\MessagesModel->getById(NULL)\n#1 [internal function]: Messages\\Controllers\\MessagesController->fullview(Array)\n#2 C:\\WORKS\\messages\\Router.php(35): call_user_func(Array, Array)\n#3 C:\\WORKS\\messages\\Router.php(48): Messages\\Router->executeAction(Array, Array)\n#4 C:\\WORKS\\messages\\index.php(28): Messages\\Router->dispatch()\n#5 {main}\n  thrown","file":"C:\\WORKS\\messages\\models\\MessagesModel.php","line":32}
+Error! Trying to get property 'title' of non-object
+Error! Trying to get property 'body' of non-object
+{"type":8,"message":"Trying to get property 'body' of non-object","file":"C:\\WORKS\\messages\\templates\\message.php","line":11}
+Error! Trying to get property 'title' of non-object
+Error! Trying to get property 'body' of non-object
+{"type":8,"message":"Trying to get property 'body' of non-object","file":"C:\\WORKS\\messages\\templates\\message.php","line":11}
+Error! Trying to get property 'title' of non-object
+Error! Trying to get property 'body' of non-object
+{"type":8,"message":"Trying to get property 'body' of non-object","file":"C:\\WORKS\\messages\\templates\\message.php","line":11}
+Error! Trying to get property 'title' of non-object
+Error! Trying to get property 'body' of non-object
+{"type":8,"message":"Trying to get property 'body' of non-object","file":"C:\\WORKS\\messages\\templates\\message.php","line":11}
+Error! Trying to get property 'title' of non-object
+Error! Trying to get property 'body' of non-object
+{"type":8,"message":"Trying to get property 'body' of non-object","file":"C:\\WORKS\\messages\\templates\\message.php","line":11}
+Error! Trying to get property 'title' of non-object
+Error! Trying to get property 'body' of non-object
+{"type":8,"message":"Trying to get property 'body' of non-object","file":"C:\\WORKS\\messages\\templates\\message.php","line":11}
+Error! Trying to get property 'title' of non-object
+Error! Trying to get property 'full_content' of non-object
+{"type":8,"message":"Trying to get property 'full_content' of non-object","file":"C:\\WORKS\\messages\\templates\\message.php","line":11}
+Error! Trying to get property 'title' of non-object
+Error! Trying to get property 'full_content' of non-object
+{"type":8,"message":"Trying to get property 'full_content' of non-object","file":"C:\\WORKS\\messages\\templates\\message.php","line":11}
+Error! Trying to get property 'title' of non-object
+Error! Trying to get property 'full_content' of non-object
+{"type":8,"message":"Trying to get property 'full_content' of non-object","file":"C:\\WORKS\\messages\\templates\\message.php","line":11}
+Error! Trying to get property 'title' of non-object
+{"type":8,"message":"Trying to get property 'title' of non-object","file":"C:\\WORKS\\messages\\templates\\message.php","line":10}
+Error! Trying to get property 'title' of non-object
+{"type":8,"message":"Trying to get property 'title' of non-object","file":"C:\\WORKS\\messages\\templates\\message.php","line":10}
+Error! Trying to get property 'title' of non-object
+{"type":8,"message":"Trying to get property 'title' of non-object","file":"C:\\WORKS\\messages\\templates\\message.php","line":10}
+Error! Trying to get property 'title' of non-object
+{"type":8,"message":"Trying to get property 'title' of non-object","file":"C:\\WORKS\\messages\\templates\\message.php","line":10}
+Error! Trying to get property 'title' of non-object
+{"type":8,"message":"Trying to get property 'title' of non-object","file":"C:\\WORKS\\messages\\templates\\message.php","line":10}
+Error! Trying to get property 'title' of non-object
+{"type":8,"message":"Trying to get property 'title' of non-object","file":"C:\\WORKS\\messages\\templates\\message.php","line":10}
+Error! Trying to get property 'title' of non-object
+{"type":8,"message":"Trying to get property 'title' of non-object","file":"C:\\WORKS\\messages\\templates\\message.php","line":10}
+Error! Trying to get property 'title' of non-object
+{"type":8,"message":"Trying to get property 'title' of non-object","file":"C:\\WORKS\\messages\\templates\\message.php","line":10}
+Error! Trying to get property 'title' of non-object
+{"type":8,"message":"Trying to get property 'title' of non-object","file":"C:\\WORKS\\messages\\templates\\message.php","line":10}
+Error! Trying to get property 'title' of non-object
+{"type":8,"message":"Trying to get property 'title' of non-object","file":"C:\\WORKS\\messages\\templates\\message.php","line":10}
+Error! Undefined variable: message
+Error! Trying to get property 'title' of non-object
+{"type":8,"message":"Trying to get property 'title' of non-object","file":"C:\\WORKS\\messages\\templates\\message.php","line":10}
+Error! Undefined variable: message
+Error! Trying to get property 'title' of non-object
+{"type":8,"message":"Trying to get property 'title' of non-object","file":"C:\\WORKS\\messages\\templates\\message.php","line":10}
+Error! Trying to get property 'title' of non-object
+Error! Trying to get property 'full_content' of non-object
+{"type":8,"message":"Trying to get property 'full_content' of non-object","file":"C:\\WORKS\\messages\\templates\\message.php","line":11}
+{"type":1,"message":"Uncaught Error: Call to undefined method Messages\\Models\\MessagesModel::db() in C:\\WORKS\\messages\\models\\MessagesModel.php:30\nStack trace:\n#0 C:\\WORKS\\messages\\controllers\\MessagesController.php(17): Messages\\Models\\MessagesModel->getPagerData(1, 10)\n#1 [internal function]: Messages\\Controllers\\MessagesController->view(Array)\n#2 C:\\WORKS\\messages\\Router.php(35): call_user_func(Array, Array)\n#3 C:\\WORKS\\messages\\Router.php(48): Messages\\Router->executeAction(Array, Array)\n#4 C:\\WORKS\\messages\\index.php(28): Messages\\Router->dispatch()\n#5 {main}\n  thrown","file":"C:\\WORKS\\messages\\models\\MessagesModel.php","line":30}
+Error! Undefined index: PagesCount
+{"type":8,"message":"Undefined index: PagesCount","file":"C:\\WORKS\\messages\\templates\\messages.php","line":30}
+Error! Use of undefined constant data - assumed 'data' (this will throw an Error in a future version of PHP)
+Error! Illegal string offset 'pagerData'
+Error! Illegal string offset 'pagesCount'
+{"type":2,"message":"Illegal string offset 'pagesCount'","file":"C:\\WORKS\\messages\\templates\\messages.php","line":30}
+Error! Undefined property: mysqli_result::$fetch_object
+{"type":8,"message":"Undefined property: mysqli_result::$fetch_object","file":"C:\\WORKS\\messages\\models\\MessagesModel.php","line":50}
+{"type":1,"message":"Uncaught Error: Class 'Messages\\Controllers\\AuthModel' not found in C:\\WORKS\\messages\\controllers\\MessagesController.php:48\nStack trace:\n#0 [internal function]: Messages\\Controllers\\MessagesController->addComment(Array)\n#1 C:\\WORKS\\messages\\Router.php(35): call_user_func(Array, Array)\n#2 C:\\WORKS\\messages\\Router.php(48): Messages\\Router->executeAction(Array, Array)\n#3 C:\\WORKS\\messages\\index.php(29): Messages\\Router->dispatch()\n#4 {main}\n  thrown","file":"C:\\WORKS\\messages\\controllers\\MessagesController.php","line":48}
+Error! Trying to get property 'id' of non-object
+{"type":8,"message":"Trying to get property 'id' of non-object","file":"C:\\WORKS\\messages\\controllers\\MessagesController.php","line":54}
+Error! Trying to get property 'id' of non-object
+{"type":8,"message":"Trying to get property 'id' of non-object","file":"C:\\WORKS\\messages\\controllers\\MessagesController.php","line":55}
+{"type":4,"message":"syntax error, unexpected '}', expecting '('","file":"C:\\WORKS\\messages\\controllers\\MessagesController.php","line":66}

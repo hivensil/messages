@@ -48,7 +48,8 @@ class Router
                 return $this->executeAction( $destination, $_REQUEST );
             }
         }
-        return "no content";
+        header('Извините, указанная страница не найдена', true, 404);
+        return "Извините, указанная страница не найдена";
 
     }
 }

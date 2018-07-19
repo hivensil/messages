@@ -8,3 +8,58 @@
 .login_panel .user_name{
     color:yellow;
 }
+
+.messages-container{
+    display:flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+.messages-container .card{
+    margin-top:15px;
+    width:30rem;
+    margin-left:15px;
+}
+
+.messages-container .card:hover{
+     -webkit-box-shadow: 7px 7px 5px 0px rgba(50, 50, 50, 0.75);
+     -moz-box-shadow:    7px 7px 5px 0px rgba(50, 50, 50, 0.75);
+     box-shadow:         7px 7px 5px 0px rgba(50, 50, 50, 0.75);
+ }
+
+
+.message-link:hover{
+    text-decoration:none;
+}
+
+.Pager{
+    margin-top:10px;
+}
+
+.comments-container{
+ margin-top:15px;
+    width:100%;
+}
+
+.comments-container textarea{
+    width:80%;
+}
+
+.comments-list{
+    margin-top:20px;
+}
+
+.comments-list .list{
+    margin-left:20px;
+}
+
+.comments-list .list .comment{
+    margin-top:10px;
+}
+
+.comment{
+    background-color: #efebeb;
+}
+
+.messages-panel{
+    width:100%;
+}
