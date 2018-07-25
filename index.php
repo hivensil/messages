@@ -45,4 +45,4 @@ if ($model->is_auth()){
     $user=$model->getAnonymousUser();
 }
 
-require('templates/page.php');
+require('Templates/page.php');
